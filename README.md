@@ -50,11 +50,3 @@ This repository covers several labs and projects which build toward the final so
   - Orbit type vs success
 
 ---
-
-│ ├── web_scraping_lab.ipynb
-│ ├── data_wrangling.ipynb
-│ ├── eda_sql.ipynb
-│ ├── eda_visualization.ipynb
-│ ├── folium_visual_analytics.ipynb
-│ └── machine_learning_prediction.ipynb
-└── README.md
