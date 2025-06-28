@@ -51,13 +51,6 @@ This repository covers several labs and projects which build toward the final so
 
 ---
 
-## 📁 Files and Structure
-📦 Applied-Data-Science-Capstone
-├── spacex_launch_dash.csv # Cleaned launch data
-├── spacex_dash_app.py # Dash app code
-├── spacex_launch_dashboard.html # Dashboard preview (optional export)
-├── labs/
-│ ├── data_collection_api.ipynb
 │ ├── web_scraping_lab.ipynb
 │ ├── data_wrangling.ipynb
 │ ├── eda_sql.ipynb
